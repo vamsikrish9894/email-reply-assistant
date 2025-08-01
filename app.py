@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # 🔐 Your OpenAI API Key (replace this with your key)
-openai.api_key = "sk-your-api-key"
+openai.api_key = "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"
 
 st.set_page_config(page_title="📧 Email Auto-Reply Assistant", layout="centered")
 st.title("📨 Auto Email Reply Assistant")
